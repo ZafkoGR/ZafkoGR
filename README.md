@@ -1,17 +1,7 @@
-Konstantinos Zafeiropoulos, better known by his artistic moniker "Zafko," is a multi-talented individual with a diverse array of passions and pursuits. 
-As a singer, songwriter, and performer, he has captivated audiences with his musical talents, crafting melodies and lyrics that resonate with emotions and experiences. 
-Zafko's creativity extends beyond the world of music, as he is also a gifted writer who explores various literary forms.
+Konstantinos Zafeiropoulos, better known by his artistic moniker "Zafko," is a highly driven individual whose pursuits merge academic excellence with artistic expression. Currently, he is pursuing a degree in Computer Engineering at the University of West Attica (Uniwa) while also deepening his expertise in Cybersecurity at Deree – The American College of Greece. His academic focus lies at the intersection of Artificial Intelligence and Cybersecurity, as reflected in his master thesis, Practical AI in Cyberwarfare and Cybersecurity: Applying Machine Learning and Natural Language Processing to Defend. Through rigorous study and research, Zafeiropoulos is contributing to the advancement of cutting-edge solutions for securing digital environments in an increasingly connected world.
 
-In addition to his artistic endeavors, Zafko is a dedicated student pursuing a degree in Computer Engineering at the University of West Attica (Uniwa). 
-His academic interests also encompass the ever-evolving field of Cybersecurity, and he is engaged in rigorous studies at Deree - The American College of Greece. 
-This dual academic commitment underscores his passion for technology and the imperative need for safeguarding digital landscapes.
+Residing in the vibrant neighborhood of Pagrati in Athens, Greece, Zafeiropoulos draws inspiration from the cultural and intellectual richness of his environment. Despite his demanding academic schedule, he is a dedicated artist, exploring creative outlets that include music, writing, and digital arts. He has published an online poetry collection titled Apologos and a music Album "Raps & Bytes", showcasing his ability to connect deeply with audiences through art.
 
-Residing in the vibrant neighborhood of Pagrati in Athens, Greece, Zafko draws inspiration from the cultural richness of his surroundings. 
-He finds artistic expression not only through music and writing but also through his captivating skills in dance and photography.
-Through the lens of his camera, he captures the beauty of life and art, while his graceful movements on the dance floor convey stories of rhythm and movement.
-Moreover, Zafko is no stranger to the world of digital arts, delving into video production and other multimedia creations.
+Zafko is also skilled in photography and video production, leveraging these mediums to tell visual stories that capture the beauty and complexity of life. His work reflects a seamless integration of technology and creativity, highlighting his innovative approach to modern art.
 
-His talents extend to the realm of visual storytelling and the fusion of technology with art, making him a versatile and innovative artist in the modern age.
-As an avid traveler, Zafko finds inspiration in the world's diverse cultures and landscapes.
-These journeys offer him a wealth of experiences and perspectives, which in turn enrich his artistic creations.
-His recent accomplishment includes the publication of his online poetry book, "Apologos," a testament to his literary prowess and his ability to connect with readers through the written word.
+Although he prioritizes his studies, Zafeiropoulos balances his academic and artistic endeavors with a sense of purpose and vision. Whether contributing to the field of cybersecurity or expressing himself through creative projects, he embodies the harmony of intellect and artistry, making him a well-rounded and forward-thinking individual.
